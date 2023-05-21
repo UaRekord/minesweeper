@@ -1,4 +1,4 @@
-let size = 6; //размер игрового поля ширина и высота
+let size = 10; //размер игрового поля ширина и высота
 const board = document.querySelector('.board');
 const footer = document.querySelector('.footer');
 const selector = document.querySelector('.selector');
