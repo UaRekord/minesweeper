@@ -83,7 +83,7 @@ function finishGame() {
 	});
 	let audio = new Audio();
 	audio.preload = 'auto';
-	audio.src = '/assets/audio/vzryiv.mp3';
+	audio.src = 'assets/audio/vzryiv.mp3';
 	audio.play();
 }
 
